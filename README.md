@@ -22,5 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsinha1109&show_icons=true&locale=en" alt="hsinha1109" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hsinha1109&" alt="hsinha1109" /></p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hsinha1109&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
