@@ -26,7 +26,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-oringe?style=flat-square&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-1572B6?style=flat-square&logo=react)
 <!-- ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white) -->
-![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
+<!-- ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js) -->
 <!--![SQL](https://img.shields.io/badge/-SQL-1572B6?style=flat-square&logo=sql)-->
  -->
 
