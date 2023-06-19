@@ -25,4 +25,9 @@
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+### Spotify Playing 🎧
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cu6k6qli5md6j3du3ecwzus4zu&unique={true|1|on|yes})
+
+---
 
